@@ -1,0 +1,35 @@
+form {
+    display: flex;
+    margin-top: 300px;
+    flex-direction: column;
+    font-weight: bold;
+}
+
+.id {
+    margin-left: 650px;
+    margin-right: 650px;
+    padding: 20px;
+    border-radius: 15px;
+    border: none;
+}
+
+.password {
+    margin-left: 650px;
+    margin-right: 650px;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 15px;
+    border: none;
+}
+
+button {
+    margin-left: 650px;
+    margin-right: 650px;
+    margin-top: 20px;
+    padding: 17px;
+    border-radius: 15px;
+    border: none;
+    background-color: rgb(252, 92, 34);
+    color: white;
+    font-weight: bold;
+}
